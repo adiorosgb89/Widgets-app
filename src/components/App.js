@@ -3,7 +3,7 @@ import Accordion from './Accordion';
 import Search from './Search';
 import TextChanger from './TextChanger';
 import Translate from './Translate';
-import Videos from '../videos-hooks/src/components/App';
+import Videos from '../videos-hooks/components/App';
 import Route from './Route';
 import Header from './Header';
 
