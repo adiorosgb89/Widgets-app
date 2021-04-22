@@ -22,7 +22,7 @@ const items = [
   },
 ];
 
-export default () => {
+const App = () => {
   return (
     <div>
       <Header />
@@ -46,3 +46,5 @@ export default () => {
     </div>
   );
 };
+
+export default App;
