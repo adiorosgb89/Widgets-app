@@ -1,0 +1,3 @@
+[submodule "src/videos-hooks"]
+    path = rc/videos-hooks
+    url = https://github.com/adiorosgb89/Widgets-app.git
